@@ -1,0 +1,15 @@
+.team-background {
+  background-color: lightblue;
+  height: 800px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.member-cluster {
+  flex-direction: row;
+  align-items: center;
+  width: min(80%, 1400px);
+  margin-top: 800px;
+  justify-content: space-between;
+}
